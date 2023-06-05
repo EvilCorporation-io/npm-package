@@ -1,0 +1,19 @@
+{
+  "name": "@evilcorporation-io/npm-package",
+  "version": "1.0.0",
+  "description": "sample text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvilCorporation-io/npm-package.git"
+  },
+  "author": "izabela1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvilCorporation-io/npm-package/issues"
+  },
+  "homepage": "https://github.com/EvilCorporation-io/npm-package#readme"
+}
